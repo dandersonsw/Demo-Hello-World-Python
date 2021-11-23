@@ -1,0 +1,8 @@
+---
+applications:
+- name: Demo-HelloWorld
+  memory: 64M
+  instances: 2
+  buildpacks:
+    - python_buildpack
+  command: python hello.py

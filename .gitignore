@@ -1,0 +1,9 @@
+### Pycharm ###
+.idea
+.idea/*.xml
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
